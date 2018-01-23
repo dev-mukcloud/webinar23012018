@@ -8,7 +8,7 @@ echo "</head>";
 echo "<body>";
 echo "<H1> Hello webinar! Test GIT </H1>";
 echo "<p>";
-while ($i< 100)
+while ($i< 10000)
 {
   print "i".$i++.";";
 }
